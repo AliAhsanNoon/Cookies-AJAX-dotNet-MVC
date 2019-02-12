@@ -1,0 +1,5 @@
+C:\Users\Ali\source\repos\CookieAndAjax\test.database\bin\Debug\test.database.dll
+C:\Users\Ali\source\repos\CookieAndAjax\test.database\bin\Debug\test.database.pdb
+C:\Users\Ali\source\repos\CookieAndAjax\test.database\obj\Debug\test.database.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\CookieAndAjax\test.database\obj\Debug\test.database.dll
+C:\Users\Ali\source\repos\CookieAndAjax\test.database\obj\Debug\test.database.pdb

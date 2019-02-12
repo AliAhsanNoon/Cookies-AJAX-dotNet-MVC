@@ -1,0 +1,6 @@
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\bin\Debug\test.service.dll
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\bin\Debug\test.service.pdb
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\obj\Debug\test.service.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\obj\Debug\test.service.dll
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\obj\Debug\test.service.pdb
+C:\Users\Ali\source\repos\CookieAndAjax\test.service\obj\Debug\test.service.csprojAssemblyReference.cache

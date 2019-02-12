@@ -1,0 +1,16 @@
+﻿@model test.web.Models.Product
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+
+<div class="modal-body">
+    <h2>Edit Product</h2>
+    <form id="updateProduct">
+        <input type="hidden" value="@Model.ID" name="ID" />
+        <input style="width: 400px;" class="m-1 form-control" type="text" value="@Model.Name" name="Name" />
+        <input style="width: 400px;" class="m-1 form-control" type="text" value="@Model.Description" name="Description" />
+        <input type="button" id="upate" value="Update" class="btn btn-sm button" />
+    </form>
+</div>
